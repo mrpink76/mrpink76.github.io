@@ -2,7 +2,7 @@
 
 # Mått/vikt byttor
 
-| Namn               |  Vikt  | Volum |
+| Namn               |  Vikt  | Volym |
 |--------------------|:------:|------:|
 | Röd gryta          | 2464 g |       |
 | Stor pastakastrull | 1048 g |       |

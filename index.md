@@ -1,5 +1,16 @@
 [<img src="/assets/images/home1_i.png">](http://192.168.86.19)
 
+# Mått/vikt byttor
+
+| Namn               |  Vikt  | Volum |
+|--------------------|:------:|------:|
+| Röd gryta          | 2464 g |       |
+| Stor pastakastrull | 1048 g |       |
+| Stor glasform      | 1820 g |       |
+| Röd ugnsform       | 1560g  |       |
+| Liten glasform     |  417g  |       |
+| Stor rostfri bunke |        | 3,5 l |
+
 # Bröd i stekpanna
 
 * 250 g vetemjölk

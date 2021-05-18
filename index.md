@@ -69,17 +69,33 @@ Grädda i ugn 225 grader
 * Och jordnötter då
 * Koriander
 
+# Pannkakor (nyttiga)
+
+## Blötlägg
+
+* 2 msk chiafrön blötläggs i 1 dl vatten
+
+## Mixa sen i matberedare tillsammans med
+
+* 2 dl havregryn mals i matberedare
+* 2 tsk bakpulver
+* kanel
+* 300g banan
+
 # Toum
 
-Mixa
+## Mixa
+
 * 3 vitlöksklyftor
 
-Mixa följande till vitt skum
+## Mixa följande till vitt skum
+
 * 2 äggvitor
 * 1 tsk salt
 * 2 tsk citronsaft
 
-Droppa i tills klart
+## Droppa i tills klart
+
 * 2,5 dl rapsolja
 
 # Kryddor

@@ -32,12 +32,12 @@ Grädda i ugn 225 grader
 Mixa
 - [ ] 3 vitlöksklyftor
 
-Mina i följande tills vitt skum
+Mixa följande till vitt skum
 - [ ] 2 äggvitor
 - [ ] 1 tsk salt
 - [ ] 2 tsk citronsaft
 
-Droppa i under mix tills klart
+Droppa i tills klart
 - [ ] 2,5 dl rapsolja
 
 # Kryddor

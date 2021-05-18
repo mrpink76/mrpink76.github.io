@@ -38,6 +38,37 @@ Grädda i ugn 225 grader
 7 min liten form
 9 1/2 min stor form
 
+# Hummus
+
+* tre msk tahini
+* fyra vitlöksklyftor
+* 1 msk citron
+* 3 dl kikärtor
+* Salt
+* Spiskummin (Mycket)
+
+# Pad Thai
+
+## Stek upp
+* En morot
+* En lök
+* Halvt paket risnudlar 
+* Halv burk böngroddar
+* 200g tofu
+
+## Marinad 
+* En pressad lime
+* En vitlöksklyfta
+* En msk farinsocker
+* En msk japansk soya
+* En msk vatten
+* Koriander
+
+## Garnering
+* Limeklyftor
+* Och jordnötter då
+* Koriander
+
 # Toum
 
 Mixa

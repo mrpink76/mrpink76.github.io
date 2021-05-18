@@ -1,5 +1,9 @@
 [<img src="/assets/images/home1_i.png">](http://192.168.86.19)
 
+<script>
+setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 5000);
+</script>
+
 # Aperol Spritz
 
 * 6 dl mousserande vin, torrt, gärna Prosecco

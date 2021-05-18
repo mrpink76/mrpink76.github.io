@@ -54,38 +54,38 @@ Droppa i tills klart
 # Kryddor
 
 * Basilika - Normal
-* Kanel - Normal, TGR
+* Cayenne - TGR
 * Chili flakes - Normal, TGR
-* Kummin - Normal
+* Citronpeppar - Normal
 * Curry - Normal, TGR
 * Dill - Normal
-* Lagerblad - Normal
-* Herbes de provence - Normal
-* Italian spice mix - Normal
-* Lakritskrydda - Normal
-* Fänkål - Normal
-* Mexico mix / Mexican - Normal
-* Oregano - Normal
-* Paprika (smoked) - Normal
-* Paprika - Normal
-* Rosenpaprika - TGR
-* Citronpeppar - Normal
-* Persilja - Normal
 * Dragon - Normal, TGR
-* Himalaya salt - Normal, TGR
-* Tandori - Normal, TGR
-* Gurkmeja (Tumeric) - Normal, TGR
-* Vanilj - Normal
-* Rose peppar - TGR
-* Spiskummin - TGR
-* Mald ingefära - TGR
-* Kardemumma - TGR
-* Cayenne - TGR
-* Vitpeppar - TGR
-* Koriander - TGR
-* Marokansk kryddmix - TGR
-* Kanelstång - TGR
-* Muskotnöt - TGR
-* Kryddnejlika (Hel) - TGR
+* Fänkål - Normal
 * Gräslök - TGR
+* Gurkmeja (Tumeric) - Normal, TGR
+* Herbes de provence - Normal
+* Himalaya salt - Normal, TGR
+* Italian spice mix - Normal
+* Kanel - Normal, TGR
+* Kanelstång - TGR
+* Kardemumma - TGR
+* Koriander - TGR
+* Kryddnejlika (Hel) - TGR
+* Kummin - Normal
+* Lagerblad - Normal
+* Lakritskrydda - Normal
+* Mald ingefära - TGR
+* Marokansk kryddmix - TGR
+* Mexico mix / Mexican - Normal
+* Muskotnöt - TGR
+* Oregano - Normal
+* Paprika - Normal
+* Paprika (smoked) - Normal
+* Persilja - Normal
+* Rose peppar - TGR
+* Rosenpaprika - TGR
+* Spiskummin - TGR
+* Tandori - Normal, TGR
+* Vanilj - Normal
+* Vitpeppar - TGR
 

@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "jekyll-theme-midnight";
-
 #header {
   display: none;
 }
@@ -15,4 +13,8 @@ p a img {
   width: 80px; 
   height: 80px; 
   margin-left: 10px;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
 }

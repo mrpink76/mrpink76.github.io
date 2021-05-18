@@ -19,9 +19,12 @@
 * 75 g choklad
 * 50 g smör
 
-Pensla formar med smält smör och pudra med socker
-Grädda i ugn 225 grader
+Pensla formar med smält smör och pudra med socker.
+
+Grädda i ugn 225 grader.
+
 7 min liten form
+
 9 1/2 min stor form
 
 # Hummus

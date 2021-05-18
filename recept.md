@@ -2,13 +2,13 @@
 
 # Mått/vikt byttor
 
-| Namn               |  Vikt  | Volym |
-|--------------------|:------:|------:|
+| Namn               |   Vikt | Volym |
+|:-------------------|-------:|------:|
 | Röd gryta          | 2464 g |       |
 | Stor pastakastrull | 1048 g |       |
 | Stor glasform      | 1820 g |       |
-| Röd ugnsform       | 1560g  |       |
-| Liten glasform     |  417g  |       |
+| Röd ugnsform       | 1560 g |       |
+| Liten glasform     |  417 g |       |
 | Stor rostfri bunke |        | 3,5 l |
 
 # Chokladfondant

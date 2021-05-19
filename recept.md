@@ -93,6 +93,25 @@ Grädda i ugn 225 grader.
 
 * 2,5 dl rapsolja
 
+# Treveckorssallad
+
+## Ca 10 portioner
+
+* 1 kg vitkål
+* 800 g morötter
+* En halv purjolök eller en rödlök
+* 1 röd paprika
+* 1 grön paprika
+
+## Dressing:
+
+* 1,5 dl vinäger (tex vit vinäger eller äppelcidervinäger)
+* 0,5 dl socker (du kan minska mängden om du vill mindre sötma)
+* 0,5 dl rapsolja
+* 0,5 dl olivolja
+* 1 msk salladskrydda
+* Ca 1 msk örtsalt eller salt (justera saltmängden efter smak)
+
 # Kryddor
 
 * Basilika - Normal

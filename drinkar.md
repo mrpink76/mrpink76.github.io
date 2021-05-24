@@ -9,8 +9,8 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 * 6 dl mousserande vin, torrt, gärna Prosecco
 * 4 dl Aperol
 * 2 dl sodavatten
-* iskuber
-* apelsin(er), skivad
+* Iskuber
+* Apelsin(er), skivad
 
 Fyll sex glas med iskuber och fördela mousserande vin, Aperol och sodavatten i glasen. 
 
@@ -30,7 +30,7 @@ Tillsätt skivad apelsin, servera!
 
 # Negroni
 
-* några isbitar
+* Några isbitar
 * 1 dl sodavatten (eventuellt)
 * 2 cl Gin
 * 2 cl Martini Rosso

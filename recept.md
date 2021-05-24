@@ -33,8 +33,8 @@ Grädda i ugn 225 grader.
 
 # Hummus
 
-* tre msk tahini
-* fyra vitlöksklyftor
+* Tre msk tahini
+* Fyra vitlöksklyftor
 * 1 msk citron
 * 3 dl kikärtor
 * Salt
@@ -54,6 +54,7 @@ Grädda i ugn 225 grader.
 * En vitlöksklyfta
 * En msk farinsocker
 * En msk japansk soya
+* 1/2 msk chili flakes 
 * En msk vatten
 * Koriander
 
@@ -61,6 +62,7 @@ Grädda i ugn 225 grader.
 * Limeklyftor
 * Och jordnötter då
 * Koriander
+* Chili flakes
 
 # Pannkakor (nyttiga)
 
@@ -72,7 +74,7 @@ Grädda i ugn 225 grader.
 
 * 2 dl havregryn mals i matberedare
 * 2 tsk bakpulver
-* kanel
+* 1 tsk kanel
 * 300g banan
 
 # Toum
@@ -149,4 +151,3 @@ Grädda i ugn 225 grader.
 * Tandori - Normal, TGR
 * Vanilj - Normal
 * Vitpeppar - TGR
-

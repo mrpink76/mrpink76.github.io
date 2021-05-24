@@ -42,6 +42,8 @@ Grädda i ugn 225 grader.
 
 # Pad Thai
 
+![Pad Thai](assets/images/padthai.jpg)
+
 ## Stek upp
 * En morot
 * En lök

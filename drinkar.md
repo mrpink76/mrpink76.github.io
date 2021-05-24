@@ -30,6 +30,8 @@ Tillsätt skivad apelsin, servera!
 
 # Negroni
 
+![Negroni](assets/images/negroni.jpg)
+
 * Några isbitar
 * 1 dl sodavatten (eventuellt)
 * 2 cl Gin

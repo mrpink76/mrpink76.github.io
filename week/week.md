@@ -58,7 +58,7 @@ Chiagröt
 
 ## Lunch
 
-Palsternacka, svamp, morot i ugn med lax
+Palsternacka, svamp, majskolv, morot i ugn med lax & tzatziki
 
 ## Middag
 

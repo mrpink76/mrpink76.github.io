@@ -37,3 +37,30 @@ Koka ca 5 min (kultest)
 Häll i två msk smör och vispa tills tungrört.
 
 Vispa i 2 dl hackad mandel när det är tungrört.
+
+# Romtårta
+
+## Botten
+
+* 250 g mandelmassa
+
+## Fyllning
+
+* 125 g smör
+* 3 dl grädde
+* 250 g mörk blockchoklad
+* 250 g ljus blockchoklad
+* 2 msk rom
+
+Kavla mandelmassan mellan plastfolie så stor att den täcker botten på en form som är 
+ca 25 cm i diameter (med löstagbar kant).
+Tryck fast mandelmassan i botten. Den behöver inte täcka kanterna.
+
+Smält smöret på svag värme och tillsätt grädden när smöret är nästintill smällt.
+Låt koka upp och lyft kastrullen från värmen. 
+
+Bryt ner chokladen i gräddblandningen och låt den smälta. 
+Rör om så att det blir en jämn smet, och tillsätt därefter rommen.
+
+Häll smeten i formen och kyl minst fyra timmar före servering.
+

@@ -18,6 +18,16 @@ Fyll sex glas med iskuber och fördela mousserande vin, Aperol och sodavatten i
 
 Tillsätt skivad apelsin, servera! 
 
+# Gimlet
+
+![Negroni](assets/images/IMG_0139.HEIC)
+
+* 6 cl gin
+* 5 cl lime
+* 1,5 cl limesaft 
+* Kolsyrat vatten
+* Is
+
 # Moscow Mule
 
 * 4 cl Vodka

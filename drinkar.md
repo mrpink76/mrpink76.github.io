@@ -20,7 +20,7 @@ Tillsätt skivad apelsin, servera!
 
 # Gimlet
 
-![Negroni](assets/images/IMG_0139.HEIC)
+![Gimlet](assets/images/IMG_0139.png)
 
 * 6 cl gin
 * 5 cl lime

@@ -25,22 +25,6 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 * 0.5 bananer
 * 2 dl mjölk (alt 1 vatten + 1 mjölk)
 
-# Chokladfondant
-
-* 1 msk vetemjöl
-* 1,5 msk socker
-* 1 ägg + 1 gula
-* 75 g choklad
-* 50 g smör
-
-Pensla formar med smält smör och pudra med socker.
-
-Grädda i ugn 225 grader.
-
-7 min liten form
-
-9 1/2 min stor form
-
 # Hummus
 
 * Tre msk tahini

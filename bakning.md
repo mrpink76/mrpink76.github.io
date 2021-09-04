@@ -22,6 +22,22 @@ Gör till bollar
 
 kavla tunt och stek i torr stekpanna, vänd efer en minut
 
+# Chokladfondant
+
+* 1 msk vetemjöl
+* 1,5 msk socker
+* 1 ägg + 1 gula
+* 75 g choklad
+* 50 g smör
+
+Pensla formar med smält smör och pudra med socker.
+
+Grädda i ugn 225 grader.
+
+7 min liten form
+
+9 1/2 min stor form
+
 # Engelska Fudge
 
 * 5 dl socker

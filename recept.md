@@ -17,6 +17,28 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 | Liten glasform     |  417 g |       |
 | Stor rostfri bunke |        | 3,5 l |
 
+# Linssoppa
+
+## Bryn
+
+* 1 gul lök
+* 1 msk Olja
+* 2 vitlöksklyftor
+
+## Koka ner ca tio min
+* 2 st morötter i bitar
+* ca 400 g potatis i bitar
+* 100 g röda linser
+* 3 dl vatten
+* GrönsaksBuljongtärning
+
+## Koka tills mjukt ca 15 min
+* Krossade tomater
+* Tomatpuré
+* Rödvinsvinäger
+* Chiliflakes
+* Peppar
+
 # Chiagröt
 
 * 1 dl havregryn

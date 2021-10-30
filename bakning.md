@@ -62,7 +62,7 @@ Vispa i 2 dl hackad mandel när det är tungrört.
 * 3 msk kakao
 * 1,5 dl vetemjöl
 
-Sm;rj med smör och br;a formen (lilla fyrkantiga glasformen).
+Smörj med smör och bröa formen (lilla fyrkantiga glasformen).
 
 Smält smöret i kastrull.
 

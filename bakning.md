@@ -54,6 +54,22 @@ Häll i två msk smör och vispa tills tungrört.
 
 Vispa i 2 dl hackad mandel när det är tungrört.
 
+# Kladdkaka 
+
+* 100 g smör
+* 2 st ägg
+* 2,5 dl strösocker
+* 3 msk kakao
+* 1,5 dl vetemjöl
+
+Sm;rj med smör och br;a formen (lilla fyrkantiga glasformen).
+
+Smält smöret i kastrull.
+
+Blanda ihop allt.
+
+Grädda i ugn 200 grader i 24 minuter.
+
 # Romtårta
 
 ## Botten

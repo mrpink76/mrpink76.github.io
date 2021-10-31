@@ -17,6 +17,44 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 | Liten glasform     |  417 g |       |
 | Stor rostfri bunke |        | 3,5 l |
 
+
+# Chiagröt
+
+* 1 dl havregryn
+* 1 msk chia
+* 1 msk kakao
+* 0.5 bananer
+* 2 dl mjölk (alt 1 vatten + 1 mjölk)
+
+# Fiskpanna
+
+* 1 liten lök
+* 2 vitlöksklyftor
+* 1 morot
+* några tärningar fryst spenat
+* 0,5 fiskbuljongtärning
+* 1 nypa dill
+* tomatpure
+* vatten
+* grädde
+* 1 bit vit fiskfile
+* Eventuellt: 1 msk kapris
+
+Stek på lök, vitlök och morötter i bitar.
+
+På med buljong, vatten, spenat, tomatpure.
+
+På med fisken, grädde, kapris och dill.
+
+# Hummus
+
+* Tre msk tahini
+* Fyra vitlöksklyftor
+* 1 msk citron
+* 3 dl kikärtor
+* Salt
+* Spiskummin (Mycket)
+
 # Linssoppa
 
 ## Bryn
@@ -38,23 +76,6 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 * Rödvinsvinäger
 * Chiliflakes
 * Peppar
-
-# Chiagröt
-
-* 1 dl havregryn
-* 1 msk chia
-* 1 msk kakao
-* 0.5 bananer
-* 2 dl mjölk (alt 1 vatten + 1 mjölk)
-
-# Hummus
-
-* Tre msk tahini
-* Fyra vitlöksklyftor
-* 1 msk citron
-* 3 dl kikärtor
-* Salt
-* Spiskummin (Mycket)
 
 # Pad Thai
 

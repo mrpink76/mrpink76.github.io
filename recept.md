@@ -17,6 +17,19 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 | Liten glasform     |  417 g |       |
 | Stor rostfri bunke |        | 3,5 l |
 
+# Bakad potatis - röror
+
+## Tonfisk
+
+* 1 rödlök
+* 2 burkar tonfisk
+* 1 msk kapris
+* 3 stjälkar selleri
+* 1 msk senap
+* 2 msk majonnäs
+* 3 dl turkisk yoghurt
+* Salt
+* Peppar
 
 # Chiagröt
 

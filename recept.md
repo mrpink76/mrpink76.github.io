@@ -31,6 +31,25 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 * Salt
 * Peppar
 
+## Kyckling
+
+### Stek kyckling 
+* 700 g kycklinglårfilé
+* stekolja
+* 2 msk curry
+* 1 tsk ingefära
+* 2 tsk gurkmeja
+* 2 tsk örtsalt
+
+### Blanda med
+* 1 rödlök
+* 100 g lättmajonös
+* 3 dl turkisk yoghurt
+* 1 röd paprika
+* 1 gul paprika
+* salt
+* peppar
+
 # Chiagröt
 
 * 1 dl havregryn

@@ -6,6 +6,10 @@ a.href = document.referrer;
 setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*60000);
 </script>
 
+# Goda röda viner
+
+* Tamaral 2019
+
 # Aperol Spritz
 
 * 6 dl mousserande vin, torrt, gärna Prosecco

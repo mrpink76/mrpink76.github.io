@@ -22,6 +22,25 @@ Gör till bollar
 
 kavla tunt och stek i torr stekpanna, vänd efer en minut
 
+# Naan bröd 2 pers
+
+* 1/4 pkt jäst
+* 1 dl mjölk
+* 2,5 dl vetemjöl
+* 1 msk olja
+* 1 tsk socker
+* 0,5 tsk salt
+
+Värm mjölken till 37 grader
+Blanda med jäst
+Knåda ihop allt till en deg
+Jäs degen i 40 minuter
+Forma till fyra bröd och jäs i 10 minuter
+
+Grädda i ugn 250 grader i 8 minuter
+Pensla med smör vitlk
+In i ugnen i nån minut
+
 # Chokladfondant
 
 * 1 msk vetemjöl

@@ -40,6 +40,20 @@ Forma till fyra bröd och jäs i 10 minuter
 Grädda i ugn 250 grader i 8 minuter
 Pensla med smör och vitlök
 
+# Havrebröd
+
+* 2,5 dl havregryn
+* 2 krm bikarbonat
+* 0,5 tsk salt
+* 0,75 dl yoghurt
+* 1 ägg
+* 1 krm kardemumma
+* 1 msk solrosfrön
+* 1 msk russin
+
+Grädda i 250 grader i ca 10 minuter.
+
+
 # Chokladfondant
 
 * 1 msk vetemjöl

@@ -38,8 +38,7 @@ Jäs degen i 40 minuter
 Forma till fyra bröd och jäs i 10 minuter
 
 Grädda i ugn 250 grader i 8 minuter
-Pensla med smör vitlk
-In i ugnen i nån minut
+Pensla med smör och vitlök
 
 # Chokladfondant
 

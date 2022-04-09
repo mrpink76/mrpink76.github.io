@@ -2,7 +2,12 @@
 
 <script>
 let a = document.querySelectorAll('[href*="http://192.168.86.19"]')[0];
-a.href = document.referrer;
+if (document.referrer.includes('mrpink76.github.io')) {
+    a.href = 'http://192.168.86.19';
+}
+else {
+    a.href = document.referrer;
+}
 setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*60000);
 </script>
 

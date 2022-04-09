@@ -6,57 +6,15 @@ a.href = document.referrer;
 setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*60000);
 </script>
 
-# Mått/vikt byttor
+[Frukost](breakfast.md)
 
-| Namn               |   Vikt | Volym |
-|:-------------------|-------:|------:|
-| Röd gryta          | 2464 g |       |
-| Stor pastakastrull | 1048 g |       |
-| Stor glasform      | 1820 g |       |
-| Röd ugnsform       | 1560 g |       |
-| Liten glasform     |  417 g |       |
-| Stor rostfri bunke |        | 3,5 l |
+[Röror](dressingar.md)
 
-# Bakad potatis - röror
+[Övrigt](misc.md)
 
-## Tonfisk
+# Bakad potatis
 
-* 1 rödlök
-* 2 burkar tonfisk
-* 1 msk kapris
-* 3 stjälkar selleri
-* 1 msk senap
-* 2 msk majonnäs
-* 3 dl turkisk yoghurt
-* Salt
-* Peppar
-
-## Kyckling
-
-### Stek kyckling 
-* 700 g kycklinglårfilé
-* stekolja
-* 2 msk curry
-* 1 tsk ingefära
-* 2 tsk gurkmeja
-* 2 tsk örtsalt
-
-### Blanda med
-* 1 rödlök
-* 100 g lättmajonös
-* 3 dl turkisk yoghurt
-* 1 röd paprika
-* 1 gul paprika
-* salt
-* peppar
-
-# Chiagröt
-
-* 1 dl havregryn
-* 1 msk chia
-* 1 msk kakao
-* 0.5 bananer
-* 2 dl mjölk (alt 1 vatten + 1 mjölk)
+[Se röror](dressingar.md)
 
 # Fiskpanna
 
@@ -77,15 +35,6 @@ Stek på lök, vitlök och morötter i bitar.
 På med buljong, vatten, spenat, tomatpure.
 
 På med fisken, grädde, kapris och dill.
-
-# Hummus
-
-* Tre msk tahini
-* Fyra vitlöksklyftor
-* 1 msk citron
-* 3 dl kikärtor
-* Salt
-* Spiskummin (Mycket)
 
 # Linssoppa
 
@@ -148,24 +97,6 @@ På med fisken, grädde, kapris och dill.
 * 1 tsk kanel
 * 300g banan
 
-# Toum
-
-![Toum](assets/images/toum.webp)
-
-## Mixa
-
-* 3 vitlöksklyftor
-
-## Mixa följande till vitt skum
-
-* 2 äggvitor
-* 1 tsk salt
-* 2 tsk citronsaft
-
-## Droppa i tills klart
-
-* 2,5 dl rapsolja
-
 # Treveckorssallad
 
 ## Ca 10 portioner
@@ -184,41 +115,3 @@ På med fisken, grädde, kapris och dill.
 * 0,5 dl olivolja
 * 1 msk salladskrydda
 * Ca 1 msk örtsalt eller salt (justera saltmängden efter smak)
-
-# Kryddor
-
-* Basilika - Normal
-* Cayenne - TGR
-* Chili flakes - Normal, TGR
-* Citronpeppar - Normal
-* Curry - Normal, TGR
-* Dill - Normal
-* Dragon - Normal, TGR
-* Fänkål - Normal
-* Gräslök - TGR
-* Gurkmeja (Tumeric) - Normal, TGR
-* Herbes de provence - Normal
-* Himalaya salt - Normal, TGR
-* Italian spice mix - Normal
-* Kanel - Normal, TGR
-* Kanelstång - TGR
-* Kardemumma - TGR
-* Koriander - TGR
-* Kryddnejlika (Hel) - TGR
-* Kummin - Normal
-* Lagerblad - Normal
-* Lakritskrydda - Normal
-* Mald ingefära - TGR
-* Marokansk kryddmix - TGR
-* Mexico mix / Mexican - Normal
-* Muskotnöt - TGR
-* Oregano - Normal
-* Paprika - Normal
-* Paprika (smoked) - Normal
-* Persilja - Normal
-* Rose peppar - TGR
-* Rosenpaprika - TGR
-* Spiskummin - TGR
-* Tandori - Normal, TGR
-* Vanilj - Normal
-* Vitpeppar - TGR

@@ -6,15 +6,15 @@ a.href = document.referrer;
 setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*60000);
 </script>
 
-[Frukost](breakfast.md)
+# [Frukost](frukost.md)
 
-[Röror](dressingar.md)
+# [Röror](dressingar.md)
 
-[Övrigt](misc.md)
+# [Övrigt](misc.md)
 
 # Bakad potatis
 
-[Se röror](dressingar.md)
+### [Se röror](dressingar.md)
 
 # Fiskpanna
 

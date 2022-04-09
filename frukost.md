@@ -16,3 +16,14 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 * 0.5 bananer
 * 2 dl mjölk (alt 1 vatten + 1 mjölk)
 
+# Varm chokladgröt
+
+* En banan
+* 1 dl havregryn
+* 1 msk mjölk
+* 1 dl kakao
+* 0,5 krm salt
+
+Rör ihop allt i smörjd form.
+Värm ugnen och grädda i 15 min, 225 grader.
+

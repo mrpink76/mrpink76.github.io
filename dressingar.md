@@ -15,6 +15,16 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 * Salt
 * Spiskummin (Mycket)
 
+# Picklad rödlök
+
+* 0,5 dl ättiksprit (24%)
+* 2 dl socker
+* 3 dl vatten
+* 2 större rödlökar
+
+Köka vattnet och sockret tills sockret löst sig.
+Skiva rödlöken fint.
+I med rödlök och ättika och koka några minuter.
 # Toum
 
 ![Toum](assets/images/toum.webp)

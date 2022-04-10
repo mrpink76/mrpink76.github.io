@@ -6,8 +6,6 @@ a.href = document.referrer;
 setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*60000);
 </script>
 
-[Frukost](breakfast.md)
-
 # Chiagröt
 
 * 1 dl havregryn

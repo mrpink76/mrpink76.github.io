@@ -41,6 +41,26 @@ På med buljong, vatten, spenat, tomatpure.
 
 På med fisken, grädde, kapris och dill.
 
+# Kycklingpanna med parmesan - 2 port (Keto)
+
+* 2 st kycklingfilé
+* Riven parmesanost (xx)
+* 2 vitlöksklyftor
+* 6 bitar soltorkad tomat
+* 1 msk olja från soltorkade tomater
+* Örter
+* 1,5 dl Grädde
+
+Panera  & stek kycklingfilé i parmesanost.
+
+Stek pressade vitlöksklyftor och hackade soltorkad tomat.
+
+Häll på örter, salt och peppar.
+
+Täck med grädde och låt puttra.
+
+Håll på den sista parmesanosten.
+
 # Linssoppa
 
 ## Bryn
@@ -120,3 +140,17 @@ På med fisken, grädde, kapris och dill.
 * 0,5 dl olivolja
 * 1 msk salladskrydda
 * Ca 1 msk örtsalt eller salt (justera saltmängden efter smak)
+
+# Wrap - 2 port (keto)
+
+* 4 ägg
+* 0,5 dl riven ost
+* 1 msk grädde
+* Salt o peppar
+* Kyckling
+* Grönsaker: Vitkål, grön paprika, rödlök, gurka, tomat
+* Majonnäs
+
+Vispa ihop: Ägg, ost, grädde, salt, peppar och stek till två wraps
+
+Stek och krydda kyckling

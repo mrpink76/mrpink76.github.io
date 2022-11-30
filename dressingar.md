@@ -15,6 +15,19 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 * Salt
 * Spiskummin (Mycket)
 
+# Pestosås (keto)
+
+* 5 dl basilika
+* 1 msk pinjenötter
+* Vitlöksklyfta
+* 0.6 dl olivolja
+* 0.8 dl vatten
+* 1 tsk citroncest
+* 0,5 tsk salt
+* 0.5 avocado
+
+Mixa ihop i matberedare
+
 # Picklad rödlök
 
 * 0,5 dl ättiksprit (24%)

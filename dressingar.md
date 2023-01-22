@@ -6,6 +6,16 @@ a.href = document.referrer;
 setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*60000);
 </script>
 
+# Aioli
+
+* Två äggulor
+* 0,5 msk vitvinsvinäger
+* 1 tsk dijonsenap
+* 2 dl olivolja
+* 3 vitlöksklyftor
+* salt
+* svartpeppar
+
 # Hummus
 
 * Tre msk tahini

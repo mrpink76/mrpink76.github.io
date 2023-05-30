@@ -21,6 +21,34 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 
 ### [Se röror](dressingar.md)
 
+# Bowl
+
+## Ris
+
+* Ris
+* Paprikakrydda
+* Gurkmeja
+* Kokos
+
+## Marinad
+
+* Färsk tonfisk/Lax
+* 1 msk sesamolja
+* Chiliflakes
+* 2 msk japansk soja
+* 2 vitlöksklyftor
+* Skvätt lime/citron
+* Knivudd wasabipaste
+
+## Tillbehör
+
+* Gurka
+* Rostad lök
+* Avokado
+* Chilimajonnäs
+* kokosflarn
+* Cashewnötter
+
 # Fiskpanna
 
 * 1 liten lök

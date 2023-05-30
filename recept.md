@@ -32,7 +32,7 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 
 ## Marinad
 
-* Färsk tonfisk/Lax
+* Rå tonfisk/Lax
 * 1 msk sesamolja
 * Chiliflakes
 * 2 msk japansk soja
@@ -48,7 +48,7 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 * Chilimajonnäs
 * kokosflarn
 * Cashewnötter
-
+* Mango (tinad)
 # Fiskpanna
 
 * 1 liten lök

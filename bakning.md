@@ -53,6 +53,22 @@ Pensla med smör och vitlök
 
 Grädda i 250 grader i ca 10 minuter.
 
+# Havrelängd
+
+* 5 dl havregryn
+* 1 tsk bikarbonat
+* 1 tsk salt
+* 1 tsk brödkryddor / kardemumma
+* 3 ägg
+* 3 dl yoghurt / fil
+* 1 dl fröer + lite till ovanpå
+* 1 näve frysta lingon
+
+Blanda ihop allt
+
+180 grader i 55 minuter
+
+Bakplåtspapper i gröna formen
 
 # Chokladfondant
 

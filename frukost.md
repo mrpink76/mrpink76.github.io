@@ -19,7 +19,7 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 * En banan
 * 1 dl havregryn
 * 1 msk mjölk
-* 1 dl kakao
+* 1 msk kakao
 * 0,5 krm salt
 
 Rör ihop allt i smörjd form.

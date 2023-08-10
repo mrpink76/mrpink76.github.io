@@ -183,3 +183,20 @@ Håll på den sista parmesanosten.
 Vispa ihop: Ägg, ost, grädde, salt, peppar och stek till två wraps
 
 Stek och krydda kyckling
+
+# Örtkyckling (keto)
+
+* 1 kg kyckling
+* 6 vitlöksklyftor
+* 8 små lökar
+* 2 burkar mutti körsbärtomater
+* 2 burkar hela champinjoner
+* 3 msk tomatpuré
+* 4 msk vitvinsvinäger
+* svampbuljongtärning
+* 5 dl lätt crème fraiche
+* Basilika, dragon, rosmarin, svartpeppar, salt
+
+Stek kycklingen i olja. Salta och peppra.
+Lägg i vitlök, hela smålökar, tomatpuré, vinäger, buljongtärning och örter. Låt puttra tills löken mjuknat något.
+Häll i tomater och crème fraiche. Tills sist champinjoner. Koka upp. 

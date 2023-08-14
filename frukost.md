@@ -18,6 +18,7 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 
 * 3 ägg
 * 1 dl fröer tex solrosfrö
+* 1 tsk brödkryddor
 * 1 näve lingon
 * 3 dl yoghurt/filmjölk
 * 5 dl havremjöl

@@ -13,6 +13,8 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 
 # [Frukost](frukost.md)
 
+# [Meze](meze.md)
+
 # [Röror](dressingar.md)
 
 # [Övrigt](misc.md)

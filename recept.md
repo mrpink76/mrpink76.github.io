@@ -172,19 +172,6 @@ Puttra béchamelen tills den tjocknar.
 Varva färssås, auberginer och béchamele. Toppa med riven ost och oregano.
 In i ugn 200°C i ca 50 minuter.
 
-# Pannkakor (nyttiga)
-
-## Blötlägg
-
-* 2 msk chiafrön blötläggs i 1 dl vatten
-
-## Mixa sen i matberedare tillsammans med
-
-* 2 dl havregryn mals i matberedare
-* 2 tsk bakpulver
-* 1 tsk kanel
-* 300g banan
-
 # Treveckorssallad
 
 ## Ca 10 portioner

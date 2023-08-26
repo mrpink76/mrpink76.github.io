@@ -27,6 +27,19 @@ Blanda ihop allt
 Klä en brödfrom i bakplåtspapper.
 180°C ca 55 min 
 
+# Pannkakor (nyttiga)
+
+## Blötlägg
+
+* 2 msk chiafrön blötläggs i 1 dl vatten
+
+## Mixa sen i matberedare tillsammans med
+
+* 2 dl havregryn mals i matberedare
+* 2 tsk bakpulver
+* 1 tsk kanel
+* 300g banan
+
 # Varm chokladgröt
 
 * En banan

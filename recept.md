@@ -140,6 +140,38 @@ Håll på den sista parmesanosten.
 * Koriander
 * Chili flakes
 
+# Moussaka
+
+* 3 st auberginer
+* 1 Stor gul lök
+* Krossade tomater
+* 400 g färs
+* Kalvfond
+* 5 Vitlöksklyftor
+* 2 msk tomatpuré
+* 1 msk kanel
+* 1 msk oregano
+* Salt
+* Peppar
+* Skvätt rödvin
+* Olja
+* Mjöl
+* 3 dl riven ost 
+
+## Béchamelesås
+
+* 1 msk smör
+* 2 msk mjöl
+* 4 dl mjölk
+
+Skär auberginerna i halvcentimeter stora skivor, lägg på husshålspapper och salta.
+Hacka lök, vitlök och stek i olja. Ner med färs och stek färdigt. 
+Under tiden vänd auberginerna i mjöl och stek i rikligt med olja.
+Krydda och i med fond, vin, krossade tomater.
+Puttra béchamelen tills den tjocknar.
+Varva färssås, auberginer och béchamele. Toppa med riven ost och oregano.
+In i ugn 200°C i ca 50 minuter.
+
 # Pannkakor (nyttiga)
 
 ## Blötlägg

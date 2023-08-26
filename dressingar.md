@@ -8,7 +8,7 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 
 # Aioli
 
-* Två äggulor
+* 2 äggulor
 * 0,5 msk vitvinsvinäger
 * 1 tsk dijonsenap
 * 2 dl olivolja
@@ -18,12 +18,25 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 
 # Hummus
 
-* Tre msk tahini
-* Fyra vitlöksklyftor
+* 3 msk tahini
+* 4 vitlöksklyftor
 * 1 msk citron
 * 3 dl kikärtor
 * Salt
 * Spiskummin (Mycket)
+
+# Jennys senapsdressing
+
+* 3 msk olja
+* 1 msk äppelcidervinäger
+* Skvätt honung
+* 1 vitlöksklyfta
+* Persilja
+* Örtsalt
+* Peppar
+* Salt
+
+Riv vitlölsklyftan, klipp persiljan. Ner i en burk med allt och skaka ihop dressingen.
 
 # Pestosås (keto)
 

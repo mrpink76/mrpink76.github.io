@@ -163,6 +163,8 @@ Håll på den sista parmesanosten.
 * 1 msk smör
 * 2 msk mjöl
 * 4 dl mjölk
+* Riven ost en näve
+* Ett ägg
 
 Skär auberginerna i halvcentimeter stora skivor, lägg på husshålspapper och salta.
 Hacka lök, vitlök och stek i olja. Ner med färs och stek färdigt. 

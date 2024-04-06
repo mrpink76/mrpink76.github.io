@@ -16,6 +16,15 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 * salt
 * svartpeppar
 
+# Grönpepparsås
+
+* 2 dl grädde
+* 1 msk grönpeppar
+* 1 msk smör
+* 0,5 tsk salt
+
+Mortla grönpeppar, stek i lite smör, på med grädde & salt
+
 # Hummus
 
 * 3 msk tahini
@@ -111,3 +120,11 @@ I med rödlök och ättika och koka några minuter.
 * 1 gul paprika
 * salt
 * peppar
+
+# Woksås
+
+* 1,5 msk soja 
+* 1 msk ostronsås
+* 1.5 msk ketjap manis 
+* 1 tsk sesamolja 
+* sesamfrön

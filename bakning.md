@@ -118,6 +118,15 @@ Blanda ihop allt.
 
 Grädda i ugn 200 grader i 24 minuter.
 
+# Kolasås (till glass)
+
+* 1 dl grädde
+* 2 dl socker
+* 2 msk kakao
+* 1 nypa salt
+
+Koka ihop allt tills det börjar bli segt (ca 5 min). 
+
 # Romtårta
 
 ## Botten

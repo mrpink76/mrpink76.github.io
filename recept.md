@@ -52,6 +52,29 @@ setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*6
 * Cashewnötter
 * Mango (tinad)
 
+# Böngryta med chili
+
+* 1 gul lök
+* 4 vitlöksklyftor
+* 1 paprika
+* 300 g färs
+* 400 g krossade tomater
+* 2 färska chili
+* 1 msk tomatpuré
+* 1 msk rödvinsvinäger
+* 1 msk kalvfond
+* koriander
+* salt
+* peppar
+* spiskummin
+* 1 tetra stora vita bönor (i sist så de inte blir mos)
+
+## Myntayoghurt
+
+* 2 dl turkisk yoghurt
+* färsk mynta
+* 1 lime (skal + saft)
+
 # Fiskpanna
 
 * 1 liten lök

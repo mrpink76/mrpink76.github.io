@@ -197,6 +197,34 @@ Puttra béchamelen tills den tjocknar.
 Varva färssås, auberginer och béchamele. Toppa med riven ost och oregano.
 In i ugn 200°C i ca 50 minuter.
 
+# Thaifärs med nudlar
+
+## Fräs ihop
+
+* 400 g färs
+* 2 vitlöksklyftor
+* 4 stora champinjoner 
+* 1/2 purjolök det gröna
+* 1 grön paprika
+* 1 chili
+
+## Sås
+
+* 2 msk röd currypasta
+* 2 msk råsocker
+* 1 grönsaksbuljongtärning
+* 2 msk ostronsås
+* 2 msk ketjap manis
+* 1 lime
+* 1 burk kokosmjölk
+  
+## Tillbehör
+
+* 200 g risnudlar
+* 1 burk böngroddar
+* Jordnötter
+* Lime
+
 # Treveckorssallad
 
 ## Ca 10 portioner

@@ -225,6 +225,24 @@ In i ugn 200°C i ca 50 minuter.
 * Jordnötter
 * Lime
 
+# Trepeppargryta
+
+* 200 g champinjoner
+* 1 gul lök
+* 500 g kyckling
+* 2 tsk grönpeppar
+* 2 tsk rosépeppar
+* 2 tsk svartpeppar
+* 2,5 dl grädde
+* 1 dl vitt vin
+* 1 msk japansk soya
+* 2 st vitlöksklyftor
+* lite salt
+
+Stek lök och kyckling i olja, tillsätt svamp, mortla peppar, häll ihop och smaka av.
+
+Serveras gärna med pasta.
+
 # Treveckorssallad
 
 ## Ca 10 portioner

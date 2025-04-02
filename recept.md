@@ -95,6 +95,16 @@ På med buljong, vatten, spenat, tomatpure.
 
 På med fisken, grädde, kapris och dill.
 
+# Gravad lax
+
+* 333 g lax
+* 1,5 msk salt
+* 1,5 msk socker
+* 1 tsk grovstött vitpeppar
+* 2 msk dill
+
+Låt vila två dygn
+
 # Kycklingpanna med parmesan - 2 port (Keto)
 
 * 2 st kycklingfilé

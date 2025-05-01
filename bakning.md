@@ -28,12 +28,13 @@ kavla tunt och stek i torr stekpanna, vänd efer en minut
 * 1,5 dl socker
 * 125 g mald mandel
 
-Blanda ihop och grädda två bottnar av smeten på bakplåtspapper i 200 grader, 10-15 min
+Blanda ihop och grädda två bottnar av smeten på bakplåtspapper 
+i 200 grader, 10-15 min
 
-4 äggulpr
-1 dl socker
-1 dl grädde
-(+mandelflarn)
+* 4 äggulor
+* 1 dl socker
+* 1 dl grädde
+* (+mandelflarn)
 
 Blanda i kastrull på svag värme tills det tjocknar.
 

@@ -34,9 +34,14 @@ i 200 grader, 10-15 min
 * 4 äggulor
 * 1 dl socker
 * 1 dl grädde
-* (+mandelflarn)
 
 Blanda i kastrull på svag värme tills det tjocknar.
+
+* 125 g smör
+
+Häll i 125 g smör och rör om.
+
+* mandelflarn
 
 Lägg ihop tårtan och strö på rostade mandelflarn
 

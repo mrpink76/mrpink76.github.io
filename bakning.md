@@ -22,6 +22,23 @@ Gör till bollar
 
 kavla tunt och stek i torr stekpanna, vänd efer en minut
 
+# Gul mandeltårta
+
+* 4 äggvitor
+* 1,5 dl socker
+* 125 g mald mandel
+
+Blanda ihop och grädda två bottnar av smeten på bakplåtspapper i 200 grader, 10-15 min
+
+4 äggulpr
+1 dl socker
+1 dl grädde
+(+mandelflarn)
+
+Blanda i kastrull på svag värme tills det tjocknar.
+
+Lägg ihop tårtan och strö på rostade mandelflarn
+
 # Naan bröd 2 pers
 
 * 1/4 pkt jäst

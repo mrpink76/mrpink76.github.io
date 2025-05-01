@@ -26,22 +26,29 @@ kavla tunt och stek i torr stekpanna, vänd efer en minut
 
 * 4 äggvitor
 * 1,5 dl socker
+
+Vispa ihop i minst 5 minuter tills det börjar tjockna
+
 * 125 g mald mandel
 
-Blanda ihop och grädda två bottnar av smeten på bakplåtspapper 
+Vispa ner den väl malda mandeln.
+
+Grädda till två bottnar av smeten på bakplåtspapper 
 i 200 grader, 10-15 min
 
 * 4 äggulor
 * 1 dl socker
 * 1 dl grädde
 
-Blanda i kastrull på svag värme tills det tjocknar.
+Köka i kastrull på svag värme tills det tjocknar.
 
 * 125 g smör
 
-Häll i 125 g smör och rör om.
+Klicka i 125 g smör och rör om.
 
-* mandelflarn
+* ca 20 g mandelflarn
+
+Rosta mandelflarn på en plåt högst upp i ungenen tills de får färg.
 
 Lägg ihop tårtan och strö på rostade mandelflarn
 

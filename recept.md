@@ -103,6 +103,15 @@ På med fisken, grädde, kapris och dill.
 * 1 tsk grovstött vitpeppar
 * 2 msk dill
 
+alt
+
+* 500 g lax
+* 2 msk salt
+* 2 msk socker
+* 1 tsk grovstött vitpeppar
+* 0,5 dl dill
+
+
 Låt vila två dygn
 
 # Kycklingpanna med parmesan - 2 port (Keto)

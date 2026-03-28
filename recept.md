@@ -228,6 +228,8 @@ In i ugn 200°C i ca 50 minuter.
 
 Vispa ihop och fräs i smort våffeljärn
 
+Servera med gravad lax, gräddfil, rödlök etc
+
 # Thaifärs med nudlar
 
 ## Fräs ihop

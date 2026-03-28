@@ -216,6 +216,18 @@ Puttra béchamelen tills den tjocknar.
 Varva färssås, auberginer och béchamele. Toppa med riven ost och oregano.
 In i ugn 200°C i ca 50 minuter.
 
+# Potatisvåfflor
+
+* 300 g kokt potatis
+* 120 g mjöl
+* 1,5 dl mjölk
+* 3 ägg
+* 1 tsk bikarbonat
+* 1 tsk salt
+* 1 msk smält smör
+
+Vispa ihop och fräs i smort våffeljärn
+
 # Thaifärs med nudlar
 
 ## Fräs ihop

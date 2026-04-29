@@ -1,14 +1,14 @@
-[<img src="/assets/images/home1_i.png">](http://192.168.86.19)
+[<img src="/assets/images/home1_i.png">](http://192.168.86.19:85)
 
 <script>
-let a = document.querySelectorAll('[href*="http://192.168.86.19"]')[0];
+let a = document.querySelectorAll('[href*="http://192.168.86.19:85"]')[0];
 if (document.referrer.includes('mrpink76.github.io')) {
-    a.href = 'http://192.168.86.19';
+    a.href = 'http://192.168.86.19:85';
 }
 else {
     a.href = document.referrer;
 }
-setTimeout(function() { document.location.href = "http://192.168.86.19"; }, 30*60000);
+setTimeout(function() { document.location.href = "http://192.168.86.19:85"; }, 30*60000);
 </script>
 
 # [Frukost](frukost.md)

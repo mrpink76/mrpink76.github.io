@@ -49,14 +49,17 @@ Riv vitlölsklyftan, klipp persiljan. Ner i en burk med allt och skaka ihop dres
 
 # Majonäs
 
+![Toum](assets/images/majjo.jpeg)
+
 * 2 äggullor rumstempererat
-* 2 dl rapsolja rumstempererad
 * 1 tsk dijonsenap
 * 0,5 tsk vitvinsvinäger/äppelcidervinäger
-* 1 krm salt
+* 0,5 tsk salt
 
 Häll allt utom olja i kitchenaid med visp.
-Droppa i oljan under vispning.
+Droppa i under vispning:
+
+* 2 dl rapsolja rumstempererad
 
 # Pestosås (keto)
 

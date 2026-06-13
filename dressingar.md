@@ -47,6 +47,17 @@ Mortla grönpeppar, stek i lite smör, på med grädde & salt
 
 Riv vitlölsklyftan, klipp persiljan. Ner i en burk med allt och skaka ihop dressingen.
 
+# Majonäs
+
+* 2 äggullor rumstempererat
+* 2 dl rapsolja rumstempererad
+* 1 tsk dijonsenap
+* 0,5 tsk vitvinsvinäger/äppelcidervinäger
+* 1 krm salt
+
+Häll allt utom olja i kitchenaid med visp.
+Droppa i oljan under vispning.
+
 # Pestosås (keto)
 
 * 5 dl basilika
